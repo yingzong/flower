@@ -72,4 +72,5 @@ setup(
             'flower = flower.command:FlowerCommand',
         ],
     },
+    zip_safe=False,
 )
